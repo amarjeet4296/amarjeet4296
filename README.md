@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
-- # LinkedIn- https://www.linkedin.com/in/amarjeetkrishnan/
-- # Twitter- https://twitter.com/amarjkrishnan?s=08
+- ### LinkedIn- https://www.linkedin.com/in/amarjeetkrishnan/
+- ### Twitter- https://twitter.com/amarjkrishnan?s=08
 
