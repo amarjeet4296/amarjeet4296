@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Artificial intelligence, Machine Learning, Deep Learning
 - 💞️ I’m looking to collaborate on Advanced NLP 
 - 📫 How to reach me 
-- ### LinkedIn- 
-- ### Twitter- https://twitter.com/amarjkrishnan?s=08
 
 ## Feel free to connect with me
 
